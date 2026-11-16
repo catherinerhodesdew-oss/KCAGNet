@@ -1,0 +1,4 @@
+symptom 0
+flavor 1
+medicinal_nature 2
+meridian_tropism 3
