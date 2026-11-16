@@ -18,3 +18,9 @@ Author: Dr. Jun Tan, Dr. Makhmut Yerlan
 * `herbPair40.txt`
   * Used to construct the herb–herb homogeneous graph.
   * Each line contains a pair of herb IDs in the format `herbId herbId`, representing an edge between two herb nodes.
+
+* `entityName2entityId.txt`
+  * Each line contains an entity label and its ID in the format `entityName entityId`.
+
+* `relationName2relationId.txt`
+  * Each line contains a relation label and its ID in the format `relationName relationId`.
